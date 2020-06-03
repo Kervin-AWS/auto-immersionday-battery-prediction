@@ -1,0 +1,27 @@
+#ignore data folder
+data/
+
+#ignore Matlab files
+*.asv
+
+#ignore jupyter notebook files
+.ipynb_checkpoints/
+__pycache__/
+
+# ignore ideF
+.idea
+.vscode/*
+
+# local TensorBoard dir
+Graph/
+
+# virtual environments
+env/
+
+.DS_Store*
+
+explore/
+
+notebook/data
+notebook/Graph
+notebook/saved_model
