@@ -24,4 +24,5 @@ explore/
 
 notebook/data
 notebook/Graph
-notebook/saved_model
+notebook/*.html
+test_samples/
