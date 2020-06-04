@@ -26,3 +26,4 @@ notebook/data
 notebook/Graph
 notebook/*.html
 test_samples/
+notebook/saved_model
